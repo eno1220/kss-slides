@@ -1,0 +1,36 @@
+body {
+  font-family: "Noto Sans JP", sans-serif;
+  color: #2f3c4e;
+}
+
+.site-title {
+  text-align: center;
+}
+
+.assets {
+  width: 90%;
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+ul {
+  padding-inline-start: 0;
+  list-style-type: none;
+}
+
+.list {
+  margin-top: 20px;
+  padding: 15px 20px 15px 20px;
+  border-radius: 10px;
+  border: 1.3px solid #ccc;
+}
+
+.set-title {
+  font-size: large;
+  font-weight: 600;
+}
+
+a {
+  text-decoration: none;
+  color: #60ad80;
+}
